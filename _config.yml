@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.dcassol.com
-title: Daniela Cassol
-email: danicassol@gmail.com
-author: Daniela Cassol
-description: "Daniela's Personal Page"
+url: http://www.samlou.github.io
+title: Samantha Corber Lou
+email: SRCorber@gmail.com
+author: Samantha Corber Lou
+description: Sam's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -29,17 +29,17 @@ social:
     url: https://github.com/dcassol  
   - icon: envelope-o
     title: email
-    url: mailto:danicassol@gmail.com
+    url: mailto:srcorber@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/dcassol/
+    url: https://www.linkedin.com/in/srcorber/
   - icon: file-pdf-o
     title: CV
     url: img/CassolDanielaCV.pdf
 #  - icon: website
 #    title: CV Lattes
 #    url: http://lattes.cnpq.br/5399100590606067
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/danicassol
+#  - icon: twitter
+#    title: twitter
+#    url: https://twitter.com/danicassol
 
