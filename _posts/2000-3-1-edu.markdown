@@ -2,13 +2,13 @@
 layout: default
 img: rice.JPG
 category: Education
-title: Bachelor's in Biological Sciences
+title: Bachelor's in Chemistry
 description: |
 ---
 
-* __2005 - 2010__
-* Federal University of Pelotas, Pelotas, Brazil
-* Advisor: Dr. Marcos Antonio Bacarin
-* Scholarship from: FAPERGS and CNPq
+* __2009 - 2015__
+* Washburn University, Topeka KS.
+* Advisor: Dr. Lisa Sharpe Elles
+
 
 
