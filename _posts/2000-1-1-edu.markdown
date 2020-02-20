@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phd.JPG
+img: needle.png
 category: Education
 title: PhD in Mechanical Engineering
 description: 2015-2020
