@@ -1,6 +1,6 @@
 ---
 layout: default
-img: systemPipeR_site.png
+img: x.png
 category: Projects
 title: "Isotropic Profile Control in Titanium Dee Reactive Ion Etching"
 description: |
